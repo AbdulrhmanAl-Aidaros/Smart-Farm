@@ -225,10 +225,3 @@ if (mode != M_ALM &&
 - Bashar Al-Waseai
 - Abdulrhman Al-Aidaros
 
-**Supervisor:** Shahab Al-Ashen
-
----
-
-## 📄 License
-
-Add a license of your choice (e.g. [MIT](https://choosealicense.com/licenses/mit/)) by creating a `LICENSE` file in the repository root.
